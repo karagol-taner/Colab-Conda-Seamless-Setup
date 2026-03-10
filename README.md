@@ -1,5 +1,7 @@
 ## How to Run Conda in Google Colab Without Restarting the Kernel
 
+The complete Jupyter Notebook (`colab_conda_norestart.ipynb`) is included directly in this repository.
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/karagol-taner/Colab-Conda-Seamless-Setup/blob/main/colab_conda_norestart.ipynb)
 
 Typically, installing Conda on Google Colab requires a frustrating kernel restart before the system recognizes the `conda` command. You can bypass this completely.
