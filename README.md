@@ -2,7 +2,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/karagol-taner/Colab-Conda-Seamless-Setup/blob/main/colab_conda_norestart.ipynb)
 
-Typically, installing Conda on Google Colab requires a frustrating kernel restart before the system recognizes the `conda` command. You can bypass this completely by dynamically updating the environment `PATH` in your active Python session.
+Typically, installing Conda on Google Colab requires a frustrating kernel restart before the system recognizes the `conda` command. You can bypass this completely.
 
 Here is the exact workflow to install Miniconda, create an environment, and use your bioinformatics tools immediately in a single run.
 
