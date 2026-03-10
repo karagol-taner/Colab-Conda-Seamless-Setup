@@ -48,3 +48,7 @@ os.environ["PATH"] += os.pathsep + "/root/miniconda3/envs/env_name/bin"
 ```
 
 You can now run your command-line tools directly in any subsequent cell.
+
+This repository shares the personal workflow instructions and setup scripts I use to streamline my own bioinformatics projects. I am sharing this setup to help others save time, but I did not develop any specific command-line tools referenced here. 
+
+This guide is provided as-is. For troubleshooting, advanced configurations, or questions about how specific tools work, please make sure to read the official documentations.
